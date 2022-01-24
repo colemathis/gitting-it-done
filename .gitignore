@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+
+# NO PYTHON EVER
+*.py
+
+# No bullshit
+bullshit/
